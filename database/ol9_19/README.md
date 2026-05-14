@@ -43,7 +43,7 @@ $ tree
 |   +--- setup.sh
 +--- software
 |   +--- apache-tomcat-9.0.108.tar.gz
-|   +--- apex_24.2_en.zip
+|   +--- apex_26.1_en.zip
 |   +--- LINUX.X64_193000_db_home.zip
 |   +--- graalvm-jdk-21_linux-x64_bin.tar.gz
 |   +--- ords-latest.zip

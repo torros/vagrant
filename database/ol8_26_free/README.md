@@ -37,7 +37,7 @@ $ tree
 |   +--- web.xml
 +--- software
 |   +--- apache-tomcat-9.0.110.tar.gz
-|   +--- apex_24.2_en.zip
+|   +--- apex_26.1_en.zip
 |   +--- graalvm-jdk-21_linux-x64_bin.tar.gz
 |   +--- oracle-ai-database-free-26ai-23.26.0-1.el8.x86_64.rpm
 |   +--- ords-latest.zip
